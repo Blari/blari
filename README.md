@@ -2,15 +2,13 @@
 
 <h3 align="center">A passionate frontend developer from Belarus! </h3>
 
-### <img align='right' src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="330">
+### <img align='right' src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="400">
 
-  
   
 **Talking about Personal Stuffs:**
 
 - 🌱 I’m currently learning Vue 2/3; 
 - 💬 Ask me about anything, I am happy to help;
-- ⚡️ Fun-Fact: I started helping JEE and AIPMT aspirants, by launching my own platform known as [CompetitiveGeeks](https://competitivegeeks.wordpress.com/) in 2018, and sold almost **750+** Notes so far!
 - 📫 How to reach me: blarior@gmail.com;
 
 
@@ -23,6 +21,5 @@
 <br/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=blari" alt="blari" /> </p>
-
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=blari&show_icons=true" alt="blari" />
