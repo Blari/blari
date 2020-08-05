@@ -10,6 +10,7 @@
 - 🌱 I’m currently learning Vue 2/3; 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: blarior@gmail.com;
+- 👯 I love connecting with different people so if you want to say hi, I'll be happy to meet you more! :)
 
 
 <p align="center">
