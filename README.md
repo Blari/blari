@@ -4,14 +4,6 @@
 
 ### <img align='right' src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="330">
 
-
-<p align="center">
-<a href="https://linkedin.com/in/blari" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="blari" height="30" width="30" /></a>
-<a href="https://fb.com/blarior" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="blarior" height="30" width="30" /></a>
-<a href="https://instagram.com/blarior" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="blarior" height="30" width="30" /></a>
-</p>
-
-<br/>
   
   
 **Talking about Personal Stuffs:**
@@ -20,6 +12,15 @@
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ Fun-Fact: I started helping JEE and AIPMT aspirants, by launching my own platform known as [CompetitiveGeeks](https://competitivegeeks.wordpress.com/) in 2018, and sold almost **750+** Notes so far!
 - 📫 How to reach me: blarior@gmail.com;
+
+
+<p align="center">
+<a href="https://linkedin.com/in/blari" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="blari" height="30" width="30" /></a>
+<a href="https://fb.com/blarior" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="blarior" height="30" width="30" /></a>
+<a href="https://instagram.com/blarior" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="blarior" height="30" width="30" /></a>
+</p>
+
+<br/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=blari" alt="blari" /> </p>
 
