@@ -22,6 +22,6 @@
 <br/>
 <p align="center">
 <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=blari" />
-<img src="https://komarev.com/ghpvc/?username=blari" alt="blari" />
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=blari&show_icons=true" alt="blari" />
 </p>
+  <img src="https://komarev.com/ghpvc/?username=blari" alt="blari" />
