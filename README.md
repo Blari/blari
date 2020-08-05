@@ -14,13 +14,14 @@
 
 
 <p align="center">
-<a href="https://linkedin.com/in/blari" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="blari" height="30" width="30" /></a>
-<a href="https://fb.com/blarior" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="blarior" height="30" width="30" /></a>
-<a href="https://instagram.com/blarior" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="blarior" height="30" width="30" /></a>
+  <a href="https://linkedin.com/in/blari" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="blari" height="30" width="30" /></a>
+  <a href="https://fb.com/blarior" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="blarior" height="30" width="30" /></a>
+  <a href="https://instagram.com/blarior" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="blarior" height="30" width="30" /></a>
 </p>
 
 <br/>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=blari" alt="blari" /> </p>
-
+<p align="center">
+<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=blari" />
+<img src="https://komarev.com/ghpvc/?username=blari" alt="blari" />
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=blari&show_icons=true" alt="blari" />
+</p>
