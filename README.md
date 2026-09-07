@@ -13,7 +13,7 @@ I also handle **servers and DevOps**: self-managed infrastructure, Docker deploy
 
 Former JavaScript and computer science teacher. Always happy to share what I learn and meet people who love building things.
 
-[LinkedIn](https://www.linkedin.com/in/blari/) · [Email](mailto:blarior@gmail.com) · [Repositories](https://github.com/blari?tab=repositories)
+[Email](mailto:blarior@gmail.com) · [Repositories](https://github.com/blari?tab=repositories)
 
 <br clear="all" />
 
