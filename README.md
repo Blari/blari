@@ -1,34 +1,29 @@
-<p align="center">
-  <img src="./assets/header.png" alt="Alexandr — Full-stack software engineer. Web products, applied AI, infrastructure." width="100%" />
-</p>
+# Hi, I'm Alexandr 👋
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/blari/">LinkedIn</a> &nbsp; / &nbsp;
-  <a href="mailto:blarior@gmail.com">Email</a> &nbsp; / &nbsp;
-  <a href="https://github.com/blari?tab=repositories">Repositories</a>
-</p>
+<img align="right" src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" alt="Night Chill — animated coding scene" width="300" />
 
-## Hey, I'm Alexandr 👋
+**Full-stack software engineer · Applied AI**  
+Minsk, Belarus · 6+ years of experience
 
-I'm a **full-stack software engineer based in Minsk, Belarus**, with **6+ years of experience** building web applications for products and clients.
+I build web applications with **React, Next.js, Node.js and Ruby on Rails** — from architecture to deployment.
 
-I work across **React, Next.js, Node.js and Ruby on Rails**, taking features from requirements and architecture through deployment and maintenance. My AI work includes code generation, RAG, semantic search, and tools that agents can use through MCP.
+I enjoy working with **LLMs, RAG and MCP**, building useful AI features, and making complex things easier to use.
 
-Previously a JavaScript and computer science teacher. I still enjoy explaining tricky things, sharing what I learn, and meeting people who like building useful software.
+Former JavaScript and computer science teacher. Always happy to share what I learn and meet people who love building things.
 
-## My toolkit
+[LinkedIn](https://www.linkedin.com/in/blari/) · [Email](mailto:blarior@gmail.com) · [Repositories](https://github.com/blari?tab=repositories)
 
-<p>
-  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,rails,postgres,docker,githubactions&amp;perline=8" alt="TypeScript, React, Next.js, Node.js, Rails, PostgreSQL, Docker, GitHub Actions" />
-</p>
+<br clear="all" />
 
-| Area | Technologies & focus |
-| :--- | :--- |
-| Frontend | React, Next.js, TypeScript, Tailwind CSS; also Angular and Vue |
-| Backend | Node.js, Express, Fastify, NestJS, Ruby on Rails, REST, WebSockets |
-| Applied AI | LLM APIs, RAG, semantic search, MCP, structured outputs |
-| Data & delivery | PostgreSQL, Redis, ChromaDB, Docker, CI/CD, self-hosted infrastructure |
+### My toolkit
 
----
+<img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,rails,postgres,docker,githubactions&amp;perline=8" alt="TypeScript, React, Next.js, Node.js, Rails, PostgreSQL, Docker, GitHub Actions" />
 
-**Have something interesting to build or talk about?** [Say hello →](mailto:blarior@gmail.com)
+**AI:** LLM APIs · RAG · Semantic search · MCP  
+**Beyond the UI:** REST APIs · WebSockets · Redis · CI/CD · Self-hosted infrastructure
+
+### A little arcade break 👾
+
+<img src="./assets/galaga-contribution-graph.svg" alt="Galaga animation of my GitHub contribution graph" width="100%" />
+
+<sub>Animation: [Night Chill collection](https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub) · [Arcade contribution graph](https://github.com/abozanona/pacman-contribution-graph)</sub>
