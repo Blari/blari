@@ -16,29 +16,6 @@ I work across **React, Next.js, Node.js and Ruby on Rails**, taking features fro
 
 Previously a JavaScript and computer science teacher. I still enjoy explaining tricky things, sharing what I learn, and meeting people who like building useful software.
 
-## Selected work
-
-**01 / Unggul — AI learning & career development**  
-Building a learning platform from scratch: courses, organization workspaces, AI career coaching, resume analysis, and personalized learning paths. Implementing OAuth-protected MCP tools and membership billing.  
-`Next.js` `TypeScript` `PostgreSQL` `OpenAI API` `MCP` `Supabase` `Stripe`
-
-**02 / WorldSphere 2 — catastrophe risk & insurance**  
-Refactoring and stabilizing an AI-generated application for risk analysis and insurance portfolio management. Extracting testable modules, strengthening regression coverage, and improving tenant isolation and semantic search.  
-`JavaScript` `Python` `Three.js` `FastAPI` `PostgreSQL / PostGIS` `Playwright`
-
-**03 / AI Software Engineer — app generation**  
-Developed conversational interfaces, schema parsing, and automated deployments for a platform that generates full-stack applications from natural-language requests.  
-`React` `Ruby` `Node.js` `OpenAI API` `Docker`
-
-<details>
-<summary><b>More things I've worked on</b></summary>
-
-- **Digital pathology:** slide viewing, case management, real-time chat, Google SSO, and AWS infrastructure.
-- **AI meeting management:** transcription, summaries, action items, calendar integrations, multi-tenancy, and billing.
-- **Infrastructure:** migrated company services from AWS and Google Cloud to self-managed servers on Hetzner and Cherry Servers, reducing infrastructure costs.
-
-</details>
-
 ## My toolkit
 
 <p>
